@@ -1,3 +1,5 @@
+## THIS IS PAYIO'S STREAMLABS ACCOUNT GEN WITHOUT GMAILS , TBH ITS A NICE TOOL BUT HE DIDNT GAVE THE SRC SO HERE'S THE SOURCE CODE OF HIS TOOL
+
 put twitter tokens in tokens.txt 
 
 once the gen is completed generating 
